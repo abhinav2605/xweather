@@ -4,7 +4,7 @@
 body{
   background-color: #add8e638;
 }
-.card{
+.weather-cards{
   height: 25vh;
   width: 15vw;
   background-color: white;
